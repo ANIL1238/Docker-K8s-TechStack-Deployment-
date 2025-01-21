@@ -1,0 +1,32 @@
+
+---
+
+**"ReactDeployHub 🚀"**
+
+This repository provides a step-by-step guide for deploying both static and dynamic React pages using Docker and Kubernetes.
+
+### **1. Deploying a Static Page in Docker:**
+- **Build** a Docker image for the React static page.
+- **Deploy** the Docker container to any environment.
+- **Run** the container to serve the static content.
+
+### **2. Deploying the Static Page on Kubernetes Using Docker Images:**
+- **Push** the Docker image to a container registry.
+- **Create** a Kubernetes deployment from the Docker image.
+- **Expose** the static page using Kubernetes Services.
+
+---
+
+### **3. Deploying a Dynamic Page with Docker:**
+- **Build** Docker images for the React app with dynamic content (including API/backend services).
+- **Set up** a 3-tier architecture (Frontend, Backend, Database) with Docker containers.
+- **Run** the containers for real-time data fetching and user interaction.
+
+### **4. Deploying the Dynamic Page on Kubernetes Using Docker Images:**
+- **Push** the Docker images of the frontend, backend, and database to a container registry.
+- **Create** Kubernetes deployments for each tier of the dynamic app.
+- **Link** the containers with Kubernetes Services and expose the dynamic page.
+
+---
+
+This project serves as a comprehensive guide for deploying both static and dynamic React applications, utilizing Docker for containerization and Kubernetes for orchestration.
