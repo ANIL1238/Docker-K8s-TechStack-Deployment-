@@ -1,4 +1,4 @@
-# Java Application with Docker
+# DAY-1 Java Application Deployment with Docker 🐟
 
 This repository contains a Java application packaged in a Docker container.
 
